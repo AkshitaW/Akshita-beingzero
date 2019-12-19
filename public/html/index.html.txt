@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Being Zero</title>
-<link rel="shortcut icon" href="img/favicon/Favicon.ico">
+
 <link rel="stylesheet" href="css/site.css">
 </head>
 <body>

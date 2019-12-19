@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AkshitaW/Akshita-beingzero/issues"
   },
-  "homepage": "https://github.com/AkshitaW/Akshita-beingzero#readme"
+  "homepage": "https://github.com/AkshitaW/Akshita-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -2,14 +2,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>first site</title>
+<title>Being Zero</title>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico">
 <link rel="stylesheet" href="css/site.css">
 </head>
 <body>
 
-<h1>Akshita</h1>
-<p>17h5a05h9</p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 <script src="js/site.js"></script>
 </body>
 </html>
